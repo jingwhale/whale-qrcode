@@ -1,0 +1,14 @@
+{
+  "name": "whale-qrcode",
+  "version": "1.0.0",
+  "description": "Generate QR Code matrix.",
+  "main": "qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qrcode"
+  ],
+  "author": "jingwhale@yeah.net",
+  "license": "ISC"
+}
